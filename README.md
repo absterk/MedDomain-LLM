@@ -91,7 +91,7 @@ Training notes:
 ## Trained Models
 
 For inference in this repository, download:
-- [finetuned_model](https://drive.google.com/drive/folders/1IjG1pETSy07fo8Bmj3D9298nL41zHIaB?usp=drive_link) (merged model)
+- [finetuned_model](https://drive.google.com/drive/folders/1VvoJLkZDfNwDiCNbRdSPNUbD0vqKvESV?usp=drive_link) (merged model)
 
 After downloading, place it in:
 - `models/finetuned_model/`
