@@ -1,15 +1,15 @@
 # Medical Radiology Impressions Generation using Llama3-Med42-8B + LoRA
 
-This repository is the official implementation of **Automated Radiology Impression Generation Using a Fine-Tuned Medical Language Model**.
+This repository is the official implementation of [**Automated Radiology Impression Generation Using a Fine-Tuned Medical Language Model**] (./medicalllm_report.pdf).
 
 
 ## Environments and Requirements
 
 - OS: Windows / Ubuntu
-- CPU: 8+ logical cores recommended
+- CPU: 8+ logical cores
 - RAM: 16 GB minimum (32 GB recommended)
-- GPU (current training code): NVIDIA GPU with 24 GB+ VRAM recommended
-- CUDA: 12.x recommended
+- GPU: NVIDIA GPU with 12+ GB VRAM recommended
+- CUDA: 11.8+
 - Python: 3.10+
 
 To install requirements:
@@ -34,7 +34,6 @@ pip install -r requirements.txt
 
 ## Dataset
 
-- Dataset access: private (not publicly shared)
 - Location in this repo: `data/raw/`
 - Data format: JSON instruction-response pairs with:
   - `prompt`: free-text radiology findings
