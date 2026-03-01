@@ -1,6 +1,6 @@
 # Medical Radiology Impressions Generation using Llama3-Med42-8B + LoRA
 
-This repository is the official implementation of [**Automated Radiology Impression Generation Using a Fine-Tuned Medical Language Model**] (./medicalllm_report.pdf).
+This repository is the official implementation of [**Automated Radiology Impression Generation Using a Fine-Tuned Medical Language Model**](./medicalllm_report.pdf).
 
 
 ## Environments and Requirements
@@ -91,7 +91,7 @@ Training notes:
 ## Trained Models
 
 For inference in this repository, download:
-- [finetuned_model](merged model)(https://drive.google.com/drive/folders/1IjG1pETSy07fo8Bmj3D9298nL41zHIaB?usp=drive_link)
+- [finetuned_model](https://drive.google.com/drive/folders/1IjG1pETSy07fo8Bmj3D9298nL41zHIaB?usp=drive_link) (merged model)
 
 After downloading, place it in:
 - `models/finetuned_model/`
