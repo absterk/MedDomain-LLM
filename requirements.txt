@@ -1,0 +1,17 @@
+# Python 3.12.12
+accelerate==1.12.0
+torch==2.6.0+cu118
+transformers==4.46.3
+datasets==4.5.0
+peft==0.18.1
+bitsandbytes==0.49.1
+sentencepiece==0.2.1
+tokenizers==0.20.3
+huggingface_hub==0.36.2
+pandas==3.0.0
+numpy==2.4.2
+scikit-learn==1.8.0
+tqdm
+openpyxl
+pyyaml==6.0.3
+requests==2.32.5
